@@ -1,4 +1,4 @@
-package returningStrings 
+package returningStrings
 
 import (
 	. "github.com/onsi/ginkgo"
